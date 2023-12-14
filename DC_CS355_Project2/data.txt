@@ -1,0 +1,13 @@
+-------------------------
+ Results for Airline One 
+-------------------------
+Average Arrival Time: 20:12
+Probability of Arriving 30 minutes after: 0.1552
+Probability of being stranded along the way: 0.0075
+
+-------------------------
+ Results for Airline Two 
+-------------------------
+Average Arrival Time: 20:11
+Probability of Arriving 30 minutes after: 0.3265
+Probability of being stranded along the way: 0.1426
